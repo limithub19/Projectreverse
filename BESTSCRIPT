@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/limithub19/Imjustuknowtesting/refs/heads/main/Tesying"))()
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/Qgr01x3b76HGwhqJ/raw", true))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/12ozn4zYQtTake5Z/raw", true))()
