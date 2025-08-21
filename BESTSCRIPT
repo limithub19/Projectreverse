@@ -1,3 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/limithub19/Imjustuknowtesting/refs/heads/main/Tesying"))()
 ID="b4435944-4fdb-4d46-8cf2-f033d5e94306";
 loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
